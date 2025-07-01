@@ -1,0 +1,46 @@
+Operation:
+  #Name
+  Prefix: ""
+  #record
+  record_words: ""
+  #Resume
+  Resume: False
+Train:
+  #Train Mehod[AT,TRADES,Natural]
+  Train_Method: "AT"
+  #Dataset
+  Data: "CIAFR10"
+  #Train Epoch
+  Epoch: 100
+  #Learning
+  Lr: 0.1
+  Factor: 0
+  #Train parameter
+  clip_eps: 8
+  inverse_clip_eps: 4
+  fgsm_step: 2
+  pgd_train: 10
+  #Learning Rate Change Iter
+  lr_change_iter: [90, 95]
+DATA:
+  #Num class
+  num_class: 10
+  # Dataset mean and std used for data normalization
+  # CIFAR-10
+  mean: !!python/tuple [0.4914, 0.4822, 0.4465]
+  std: !!python/tuple [0.2471, 0.2435, 0.2616]
+Segmentation:
+  #Threshold
+  Threshold: 0.1
+  #Segmentation Model
+  Segmentation_Model: "ResNet18_ST"
+ADV:
+  # FGSM parameters during training
+  clip_eps: 8
+  fgsm_step: 2
+  pgd_attack_test: 10
+
+  # PGD attack parameters used during validation
+  # the same clip_eps as above is used for PGD
+  pgd_attack_1: 20
+  pgd_attack_2: 100
