@@ -1,4 +1,17 @@
-# Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment
+<div align="center">
+  <h2 style="font-size: 36px; font-weight: bold; color: #333;">Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment</h2>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <!-- arXiv Badge -->
+  <a href="https://arxiv.org/abs/2408.06079">
+    <img src="https://img.shields.io/badge/arXiv-2408.06079-b31b1b?style=flat-square" alt="arXiv" style="margin: 0 0px;" />
+  </a>
+  <!-- License Badge -->
+  <img alt="GitHub License" src="https://img.shields.io/github/license/KejiaZhang-Robust/2408.06079?style=flat-square" style="margin: 0 0px;">
+  <!-- Language Badge -->
+  <img alt="Language" src="https://img.shields.io/github/languages/top/KejiaZhang-Robust/2408.06079?style=flat-square&color=9acd32" style="margin: 0 5px;">
+</div>
 
 📌 **Accepted at ICCV 2025**
 
