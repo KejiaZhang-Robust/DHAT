@@ -8,9 +8,9 @@
     <img src="https://img.shields.io/badge/arXiv-2408.06079-b31b1b?style=flat-square" alt="arXiv" style="margin: 0 0px;" />
   </a>
   <!-- License Badge -->
-  <img alt="GitHub License" src="https://img.shields.io/github/license/KejiaZhang-Robust/2408.06079?style=flat-square" style="margin: 0 0px;">
+  <img alt="GitHub License" src="https://img.shields.io/github/license/DHAT/2408.06079?style=flat-square" style="margin: 0 0px;">
   <!-- Language Badge -->
-  <img alt="Language" src="https://img.shields.io/github/languages/top/KejiaZhang-Robust/2408.06079?style=flat-square&color=9acd32" style="margin: 0 5px;">
+  <img alt="Language" src="https://img.shields.io/github/languages/top/DHAT/2408.06079?style=flat-square&color=9acd32" style="margin: 0 5px;">
 </div>
 
 📌 **Accepted at ICCV 2025**
